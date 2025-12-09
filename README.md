@@ -73,3 +73,9 @@ Todo o processo de plotagem foi feito diretamente em Python, garantindo controle
 
 📌 Observação:
 Este README descreve exclusivamente a estrutura técnica, metodologia e lógica analítica do projeto, sem referência direta a artigos, publicações ou textos acadêmicos externos.
+
+Base de dados utilizadas:
+Dados epidemiológicos da COVID-19 no Brasil - https://brasil.io/covid19/
+Cadastro Nacional de Estabelecimentos de Saúde - http://cnes.datasus.gov.br
+
+
